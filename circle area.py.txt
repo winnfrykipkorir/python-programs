@@ -1,0 +1,4 @@
+pie=22/7
+r=14
+area=pie*r*r
+print("The area of a circle is",area)
